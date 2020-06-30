@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/HousesRolodex/static/css/main.f41ad2ae.chunk.css",
+    "main.js": "/HousesRolodex/static/js/main.7ecaa4b7.chunk.js",
+    "main.js.map": "/HousesRolodex/static/js/main.7ecaa4b7.chunk.js.map",
+    "runtime-main.js": "/HousesRolodex/static/js/runtime-main.3ea98657.js",
+    "runtime-main.js.map": "/HousesRolodex/static/js/runtime-main.3ea98657.js.map",
+    "static/js/2.f6d152fb.chunk.js": "/HousesRolodex/static/js/2.f6d152fb.chunk.js",
+    "static/js/2.f6d152fb.chunk.js.map": "/HousesRolodex/static/js/2.f6d152fb.chunk.js.map",
+    "index.html": "/HousesRolodex/index.html",
+    "precache-manifest.7a5a085d09e6b3eaca26693ef74172b2.js": "/HousesRolodex/precache-manifest.7a5a085d09e6b3eaca26693ef74172b2.js",
+    "service-worker.js": "/HousesRolodex/service-worker.js",
+    "static/css/main.f41ad2ae.chunk.css.map": "/HousesRolodex/static/css/main.f41ad2ae.chunk.css.map",
+    "static/js/2.f6d152fb.chunk.js.LICENSE.txt": "/HousesRolodex/static/js/2.f6d152fb.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/HousesRolodex/static/media/1.8a072618.jpg",
+    "static/media/10.jpg": "/HousesRolodex/static/media/10.11c822d5.jpg",
+    "static/media/2.jpg": "/HousesRolodex/static/media/2.97daba23.jpg",
+    "static/media/3.jpg": "/HousesRolodex/static/media/3.d1784713.jpg",
+    "static/media/4.jpg": "/HousesRolodex/static/media/4.81caf4b3.jpg",
+    "static/media/5.jpg": "/HousesRolodex/static/media/5.aa76a2af.jpg",
+    "static/media/6.jpg": "/HousesRolodex/static/media/6.b95ed1ff.jpg",
+    "static/media/7.jpg": "/HousesRolodex/static/media/7.e3ddb8b0.jpg",
+    "static/media/8.jpg": "/HousesRolodex/static/media/8.b826d505.jpg",
+    "static/media/9.jpg": "/HousesRolodex/static/media/9.a6f9aa3a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ea98657.js",
+    "static/js/2.f6d152fb.chunk.js",
+    "static/css/main.f41ad2ae.chunk.css",
+    "static/js/main.7ecaa4b7.chunk.js"
+  ]
+}
